@@ -20,8 +20,8 @@ window.open("#")
 
 function startTest(){
   if (startTest = "click" ){
-      window.open("http://127.0.0.1:5502/asset2/index.html")
-      window.close("http://127.0.0.1:5502/asset1/index.html")
+      window.open("http://127.0.0.1:5500/assets/asset2/index.html")
+      window.close("http://127.0.0.1:5500/index.html")
   }
 
 }
